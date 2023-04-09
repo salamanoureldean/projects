@@ -9,4 +9,3 @@ PURPOSE OF PROJECT: Fully functioning TicTacToe GUI
 VERSION or DATE: 1.0
 HOW TO START THIS PROJECT: Run code in BlueJ
 AUTHOR: Salama Nour El Dean
-USER INSTRUCTIONS:
